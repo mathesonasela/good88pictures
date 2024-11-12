@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Good88 - Nhà cái cá cược trực tuyến đa dạng, uy tín và an toàn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Good88 <https://good88.pictures/>`_ là một nền tảng cá cược trực tuyến nổi bật với hàng nghìn trò chơi đa dạng, được đầu tư kỹ lưỡng và nhận được nhiều phản hồi tích cực từ người dùng. Good88 chú trọng vào việc phát triển sản phẩm chất lượng, liên tục cải tiến tính năng và đảm bảo tính bảo mật cho người chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Giao diện thân thiện, dễ sử dụng cùng hệ thống thanh toán nhanh chóng và an toàn là những điểm nổi bật của Good88. Các sản phẩm chính bao gồm cá cược thể thao, casino trực tuyến, game bắn cá và xổ số, mang đến trải nghiệm giải trí đa dạng và hấp dẫn cho người dùng. Good88 cam kết cung cấp dịch vụ minh bạch, an toàn, cùng đội ngũ hỗ trợ khách hàng chuyên nghiệp, luôn sẵn sàng giải quyết mọi vấn đề của người chơi.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 86 Lê Sát, Tân Quý, Tân Phú, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0900987778. 
 
-.. toctree::
+Email: info@good88.pictures. 
 
-   usage
-   api
+Website: https://good88.pictures/ 
+
+#good88 #trangchugood88 #dangkygood88 #dangnhapgood88 #linkgood88
